@@ -4,7 +4,7 @@
 
 This project is part of the Data Scientist nanodegree from udacity, the objetive is to answer 3 questions from data of free choice and making use of descriptive, inferential statistics or machine learning.
 
-The chosen data for the project was airbnb's data available in Kaggle for [Boston](https://www.kaggle.com/airbnb/seattle/data,"kaggle") and [Boston](https://www.kaggle.com/airbnb/boston/data,"kaggle"). 
+The chosen data for the project was airbnb's data available in Kaggle for [Seattle](https://www.kaggle.com/airbnb/seattle/data,"kaggle") and [Boston](https://www.kaggle.com/airbnb/boston/data,"kaggle"). 
 
 ## Files
 
